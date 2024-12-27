@@ -4,6 +4,7 @@
 **dskretta/dskretta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on ... Python projects to apply it better to infosec!
 - 🌱 I’m currently learning ... for the US Cyber Games Pipeline Program
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... on linkedin as, Dimitrios Skrettas!
 - 😄 Pronouns: ... He/Him/His
 - ⚡ Fun fact: ... I love to swim and read
--->
+
