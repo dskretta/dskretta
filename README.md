@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... Python projects to apply it better to infosec!
 - 🌱 I’m currently learning ... for the US Cyber Games Pipeline Program
 - 👯 I’m looking to collaborate on ... PoC's of exploits to learn and practice
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ... Participating in almost 2 dozen CTF competitions!
 - 📫 How to reach me: ... on linkedin.
 - 😄 Pronouns: ... He/Him/His
