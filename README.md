@@ -7,7 +7,7 @@ I am an InfoSec student, avid CTF player, and current Cyber Athlete with the US 
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ... Python projects to apply it better to infosec!
+- 🔭 I’m currently working on ... Python projects for infosec!
 - 🌱 I’m currently learning ... for the US Cyber Games Pipeline Program
 - 👯 I’m looking to collaborate on ... PoC's of exploits to learn and practice
 - 💬 Ask me about ... Participating in almost 2 dozen CTF competitions!
