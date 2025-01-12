@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Participating in almost 2 dozen CTF competitions!
 - 📫 How to reach me: ... on linkedin
 - 😄 Pronouns: ... He/Him/His
-- ⚡ Fun fact: ... I love to cook!
+- ⚡ Fun fact: ... I am interested in the application of machine learning to infosec!
 
 
 <!--
