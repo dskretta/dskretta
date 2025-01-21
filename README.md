@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Participating in almost 2 dozen CTF competitions!
 - 📫 How to reach me: ... on linkedin
 - 😄 Pronouns: ... He/Him/His
-- ⚡ Fun fact: ... How about a fun fact about you instead?? 
+- ⚡ Fun fact: ... I'm going to put up my own github.io site!
 
 
 <!--
