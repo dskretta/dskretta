@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... Python projects for infosec!
 - 🌱 I’m currently learning ... for the US Cyber Games Pipeline Program
 - 👯 I’m looking to collaborate on ... PoC's of exploits to learn and practice
-- 💬 Ask me about ... Participating in almost 2 dozen CTF competitions!
+- 💬 Ask me about ... Participating in almost 2 dozen CTF competitions! or dinosaurs, theyre pretty cool too
 - 📫 How to reach me: ... on linkedin
 - 😄 Pronouns: ... He/Him/His
 - ⚡ Fun fact: ... You think cybersecurity is your ally?! I was born into infosec, you merely adopted it!
