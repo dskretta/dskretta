@@ -10,10 +10,16 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... diving deeper into networking!
 - 🌱 I’m currently learning ... for the US Cyber Games Pipeline Program
 - 👯 I’m looking to collaborate on ... PoC's of exploits to learn and practice
-- 💬 Ask me about ... Participating in almost 2 dozen CTF competitions! or dinosaurs, theyre pretty cool too
+- 💬 Ask me about ... Participating in almost 2 dozen CTF competitions! or dinosaurs, they're pretty cool too
 - 📫 How to reach me: ... on linkedin
 - 😄 Pronouns: ... He/Him/His
 - ⚡ Fun fact: ... You think cybersecurity is your ally?! I was born into infosec, you merely adopted it!
+
+- Work in Progress!!!
+	Working on a personal site to put accomplishments
+	Working on adding icons of my tech stack
+	Working on adding more repositories of my projects
+	Working on furthering my career!
 
 
 <!--
