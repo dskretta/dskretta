@@ -1,5 +1,5 @@
 ## 🪐 About Me:
-I am an InfoSec student, avid CTF player, and current Cyber Athlete with the US Cyber Games pipeline program, training to compete for a spot on the US Cyber Team to represent the United States Cyber on the global stage.
+I am an InfoSec student, avid CTF player, and current Cyber Athlete with the US Cyber Games pipeline program, training to compete for a spot on the US Cyber Team to represent United States Cyber on the global stage.
 
 <!--
 **dskretta/dskretta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
