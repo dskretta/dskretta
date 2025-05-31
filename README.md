@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... You think cybersecurity is your ally?! I was born into infosec, you merely adopted it!
 
 - Work in Progress!!!
-	Working on a personal site to put accomplishments
-	Working on adding icons of my tech stack
-	Working on adding more repositories of my projects
-	Working on furthering my career!
+	-Working on a personal site to put accomplishments
+	-Working on adding icons of my tech stack
+	-Working on adding more repositories of my projects
+	-Working on furthering my career!
 
 
 <!--
