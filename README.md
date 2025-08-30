@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... infosec related Python projects
 - 🌱 I’m currently learning ... exploit development
-- 👯 I’m looking to collaborate on ... PoC's of exploits to learn and practice
+- 👯 I’m looking to collaborate on ... Malware Development
 - 💬 Ask me about ... Participating in almost 2 dozen CTF competitions! or dinosaurs, they're pretty cool too
 - 📫 How to reach me: ... on linkedin
 - 😄 Pronouns: ... He/Him/His
