@@ -1,46 +1,21 @@
-## 🪐 About Me:
-I am an InfoSec student, avid CTF player, and current Cyber Athlete with the US Cyber Games Cyber Combine, competing for a spot on the US Cyber Team to represent United States Cyber on the global stage.
+# 🪐 About Me:
+I am an InfoSec student, avid CTF player. Currently wrapping up my Bachelor's degree in Cybersecurity. I am looking for Offensive Security internships and full time roles for after graduation!
 
+
+## ✏️ Current Focuses:
+<br>🔭 I’m currently working on ... setting up my own personal site <br>🌱 I’m currently learning ... Golang! <br>👯 I’m looking to collaborate on ... Malware Development <br>💬 Ask me about ... Participating in almost 2 dozen CTF competitions! or dinosaurs, they're pretty cool too <br>📫 How to reach me: ... on linkedin <br>😄 Pronouns: ... He/Him/His <br>⚡ You think cybersecurity is your ally?! I was born into infosec, you merely adopted it!
+
+## 💻 Tech Stack: 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)  ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Proxmox](https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
+
+## 📊 Github Stats:
+[![Dskretta's GitHub stats](https://github-readme-stats.vercel.app/api?username=dskretta&show_icons=true&theme=dark)](https://github.com/dskretta/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dskretta&layout=compact&theme=dark&hide_progress=true)](https://github.com/dskretta/github-readme-stats)
 <!--
-**dskretta/dskretta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
-- 🔭 I’m currently working on ... setting up my own personal site
-- 🌱 I’m currently learning ... Golang!
-- 👯 I’m looking to collaborate on ... Malware Development
-- 💬 Ask me about ... Participating in almost 2 dozen CTF competitions! or dinosaurs, they're pretty cool too
-- 📫 How to reach me: ... on linkedin
-- 😄 Pronouns: ... He/Him/His
-- ⚡ Fun fact: ... You think cybersecurity is your ally?! I was born into infosec, you merely adopted it!
-
-- Work in Progress!!!
-	-Working on a personal site to put accomplishments
-	-Working on adding icons of my tech stack
-	-Working on adding more repositories of my projects
-	-Working on furthering my career!
+## Other Badges: WIP
+![RedTeamer](https://img.shields.io/badge/Red%20Teamer-%23FF1744?style=flat-square&logo=skyliner&logoColor=white)
+--!>
 
 
-<!--
-## 🎓 Education:
-I am pursing a Bachelor of Science at Eastern Michigan University in Information Assurance and Cyber Defense. My studies have focused on the 
 
-## Tech Proficiencies
-<div align="center">
-	<table>
-		<tr>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" alt="Terraform" title="Terraform"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code></td>
-			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code></td>
-		</tr>
-		<tr>
-			<td><code><img width="50" src="https://github.com/user-attachments/assets/63d6cb39-63c6-44fc-bbb1-2adcb8458a32" alt="Raspberri Pi" title="Raspberri Pi"/></code></td>
-		</tr>
-	</table>
-</div>
+
