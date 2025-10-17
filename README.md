@@ -1,5 +1,5 @@
 ## 🪐 About Me:
-I am an InfoSec student, avid CTF player, and current Cyber Athlete with the US Cyber Games Cyber Combine, competing for a spot on the US Cyber Team to represent United States Cyber on the global stage, I will attain my goals.
+I am an InfoSec student, avid CTF player, and current Cyber Athlete with the US Cyber Games Cyber Combine, competing for a spot on the US Cyber Team to represent United States Cyber on the global stage.
 
 <!--
 **dskretta/dskretta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,8 +7,8 @@ I am an InfoSec student, avid CTF player, and current Cyber Athlete with the US 
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ... infosec related Python projects
-- 🌱 I’m currently learning ... exploit development
+- 🔭 I’m currently working on ... setting up my own personal site
+- 🌱 I’m currently learning ... Golang!
 - 👯 I’m looking to collaborate on ... Malware Development
 - 💬 Ask me about ... Participating in almost 2 dozen CTF competitions! or dinosaurs, they're pretty cool too
 - 📫 How to reach me: ... on linkedin
