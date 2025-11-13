@@ -10,7 +10,7 @@ I am an InfoSec student, avid CTF player. Currently wrapping up my Bachelor's de
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Proxmox](https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
 
 ## 🏆 CTF Stats:
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/dskretta.png)](https://tryhackme.com/p/dskretta)
+[![TryHackMe Badge]()](https://tryhackme.com/p/dskretta)
 [ ![HackTheBox Badge](https://www.hackthebox.eu/badge/image/732595)](https://www.hackthebox.eu/home/users/profile/732595)
 
 ## 📊 Github Stats:
