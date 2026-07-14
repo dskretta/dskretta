@@ -1,5 +1,5 @@
 # 🪐 About Me:
-I am an InfoSec student, lead organizer of BSides Detroit, and avid CTF player. Currently wrapping up my Bachelor's degree in Cybersecurity. I am looking for InfoSec internships and full time roles!
+I am a Cybersecurity Software Engineer Intern @Viasat, InfoSec student, lead organizer of BSides Detroit 2026, and avid CTF player. Currently wrapping up my Bachelor's degree in Cybersecurity. I am looking for InfoSec internships and full time roles!
 
 
 ## ✏️ Current Focuses:
